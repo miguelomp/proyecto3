@@ -144,7 +144,7 @@ class AplicacionMedico:
 
         def intentar_login():
             try:
-                if self.doctor_sistema.validar_acceso(ent_u.get(), ent_c.get()):
+                if self.doctor_sistema.Validar_acceso(ent_u.get(), ent_c.get()):
                     self.menu_operaciones()
             except ErrorDeLogin as e:
                 messagebox.showerror("Error de Acceso", str(e))
