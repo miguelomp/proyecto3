@@ -1,0 +1,15 @@
+PARTICIPANTES:
+
+* Eduard Alfonso Lacruz Marquina - C.I: 32.124.071
+- por ahora no hay mas nadie 
+
+DESCRIPCIÓN DEL PROYECTO:
+
+Esta aplicación permite a un médico registrarse por única vez, iniciar sesión 
+con credenciales seguras y gestionar una base de datos de pacientes.
+Por ahora es solo eso. tengo pensado si recivo ayuda, que el proyecto tenga mas opciones
+
+REQUISITOS:
+
+-python 3.14.3
+-Tkinter (por lo que se viene incluido en python)
